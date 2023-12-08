@@ -1,1 +1,3 @@
 # brutalis-feladat
+
+## elso lepes
