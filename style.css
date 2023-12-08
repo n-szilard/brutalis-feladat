@@ -1,3 +1,12 @@
 .flex-container {
     display: flex;
+    border: 1px solid black;
+    border-radius: 16px;
+    padding: 32px;
+}
+
+.flex-container > div {
+    width: 32%;
+    border: 1px solid gray;
+    padding: 16px;
 }
