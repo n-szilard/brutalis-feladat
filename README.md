@@ -6,3 +6,4 @@
 ## negyedik lepes
 ## ötödik lepes
 ## 6. lepes
+## 7. lepes
