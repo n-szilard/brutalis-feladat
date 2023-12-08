@@ -3,6 +3,8 @@
     border: 1px solid black;
     border-radius: 16px;
     padding: 32px;
+    flex-wrap: wrap;
+    gap: 16px;
 }
 
 .flex-container > div {
@@ -13,4 +15,15 @@
 
 img {
     width: 300px;
+}
+
+footer {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: lavender;
+}
+
+footer > div {
+    width: 20%;
 }
